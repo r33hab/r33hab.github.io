@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["4QK74D4L3J.no.kriler.luftrom"],
+        "components": [
+          { "/": "/luftrom-site/s/*", "comment": "Spots shared from the Luftrom app" }
+        ]
+      }
+    ]
+  }
+}
